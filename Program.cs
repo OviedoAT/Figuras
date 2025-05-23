@@ -1,4 +1,4 @@
-using ClaseC;
+﻿using ClaseC;
 
 namespace Figuras
 {
